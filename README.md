@@ -44,7 +44,7 @@ Per ora questo progetto è solo a scopo personale, ma sono felice di ricevere su
 
 ## Contatti
 
-Se vuoi scrivermi, puoi trovarmi su LinkedIn: [tuo-linkedin]
+Se vuoi scrivermi, puoi trovarmi su LinkedIn: https://www.linkedin.com/in/gianluca-marcone-web-developer/
 
 ---
 
