@@ -41,9 +41,3 @@ Il progetto è pensato come esercizio per migliorare le mie competenze di svilup
 Per ora questo progetto è solo a scopo personale, ma sono felice di ricevere suggerimenti o feedback!
 
 ---
-
-## Contatti
-
-Se vuoi scrivermi, puoi trovarmi su LinkedIn: https://www.linkedin.com/in/gianluca-marcone-web-developer/
-
-[Inserisci qui la licenza, ad esempio MIT o altro, oppure scrivi "Nessuna licenza specifica."]
