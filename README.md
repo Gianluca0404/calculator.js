@@ -46,8 +46,4 @@ Per ora questo progetto è solo a scopo personale, ma sono felice di ricevere su
 
 Se vuoi scrivermi, puoi trovarmi su LinkedIn: https://www.linkedin.com/in/gianluca-marcone-web-developer/
 
----
-
-## Licenza
-
 [Inserisci qui la licenza, ad esempio MIT o altro, oppure scrivi "Nessuna licenza specifica."]
